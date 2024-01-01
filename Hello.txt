@@ -1,1 +1,1 @@
-ECHO is on.
+Start with the initial code for FEnG webpage.
